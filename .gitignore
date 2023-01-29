@@ -1,0 +1,4 @@
+pkg
+sbcl-static-*.pkg.tar.zst
+sbcl
+src
